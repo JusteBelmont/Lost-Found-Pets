@@ -1,0 +1,2 @@
+# Lost-Found-Pets
+Many groups on social networks (i.e. Facebook) deal with lost/found pets. Info are usually scattered and disconnected, and for example FB timeline structure makes it hard to retrieve and compare quickly posts separated by more than 1-2hrs. A database is designed and filled in with available info on a local Florence (Italy) group, together with a simple front-end that allows quick comparison between different notices, filtered by the relevant information (color, place of loss, last seen where, name, etc.)
